@@ -5,6 +5,7 @@ public class Permutation {
         if(str.length()==0)
         {
             System.out.println(Permutation);
+            return;
         }
         for(int i=0;i<str.length();i++)
         {
